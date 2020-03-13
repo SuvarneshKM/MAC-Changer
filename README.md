@@ -4,11 +4,11 @@
 
 # Install
 
-* `pip3 install subprocess.run`
+* `pip install subprocess.run`
 
-* `pip3 install regex`
+* `pip install regex`
 
-* `pip3 install optparse-pretty`
+* `pip install optparse-pretty`
 
 * `git clone https://github.com/SuvarneshKM/MAC-Changer.git`
 
@@ -17,7 +17,7 @@ ROOT IS REQUIRED TO RUN
 
 * `cd MAC-Changer`
 
-* `python3 Mac_Changer.py [--help,-h]`
+* `python Mac_Changer.py [--help,-h]`
 
 
 
